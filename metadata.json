@@ -1,0 +1,7 @@
+{
+  "name": "Olive Tree Mediterranean Kitchen",
+  "description": "An elegant, AI-enhanced web experience for Olive Tree restaurant in Pasadena, TX, featuring a personalized menu recommender and immersive Mediterranean aesthetics.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
